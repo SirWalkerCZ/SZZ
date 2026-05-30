@@ -44,3 +44,13 @@ Přidán `README.md` s rychlým návodem pro ostatní: instalace `pdf-mcp[semant
 - Přidáno pravidlo do [[ai/agent-pravidla]]: běžný český text psát s háčky a čárkami.
 - Přepsány poznámky [[MA2A/07 Funkce vice promennych, gradient, extremy]] a [[MA2A/08 Vicerozmerne integraly a integralni vety]] tak, aby prose text, nadpisy a aliasy zdrojů používaly českou diakritiku.
 - Zachovány technické identifikátory, názvy souborů, LaTeX a odkazy na PDF.
+
+
+## 2026-05-30 - MA1A otázky 3-4
+
+- Zpracovány otázky 3 a 4 do složky `MA1A`:
+  - [[03 Funkce jedne promenne, limita, derivace, prubeh]]
+  - [[04 Primitivni funkce a integraly]]
+- Použité podklady: [[ma1a-23k2.pdf]], [[ma1a-23k3.pdf]], [[ma1a-23k4.pdf]], [[ma1a-23k6.pdf]], [[ma1a-23k7.pdf]], [[ma1a-23k8.pdf]], [[ma1a-23k9.pdf]], [[ma1a-23k10.pdf]].
+- Taylorův polynom doplněn z [[hex_compost.pdf#page=22]], protože v adresáři MA1A není dodaná kapitola 5.
+- Poznámky používají Obsidian LaTeX rovnice, českou diakritiku v běžném textu, zdroje u sekcí a wikilinky mezi souvisejícími tématy.
