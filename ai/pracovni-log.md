@@ -75,3 +75,14 @@ Přidán `README.md` s rychlým návodem pro ostatní: instalace `pdf-mcp[semant
 - Použité podklady: [[KANA/testkom.pdf]] pro komplexní analýzu a [[KANA/transformace.pdf]] pro Fourierovy řady, Fourierovu transformaci, Laplaceovu transformaci a Z-transformaci.
 - Poznámky používají Obsidian LaTeX, český text s diakritikou, zdroje po sekcích jako wikilinky na PDF a odkazy mezi souvisejícími tématy.
 - Poznámka k nástrojům: PDF MCP v této části nebyl stabilní, proto byl text extrahován lokálně z dodaných PDF pomocí `pdftotext`; nebyly použity externí zdroje.
+
+
+## 2026-05-30 - PST otázky 11-12
+
+- Zpracovány otázky 11 a 12 do složky `PST`:
+  - [[11 Nahodna velicina vektor rozdeleni charakteristiky]]
+  - [[12 CLV MLE testovani hypotez]]
+- Použitý podklad: [[PST/01PST_zapisky.pdf]].
+- Otázka 11 čerpá hlavně z definic náhodné veličiny, distribuční funkce, diskrétního a spojitého rozdělení, momentů, rozptylu, náhodného vektoru, korelace a nezávislosti.
+- Otázka 12 čerpá z CLV, bodových odhadů, metody maximální věrohodnosti, principu testování hypotéz, t-testů a chí-kvadrát testu dobré shody.
+- Poznámky používají Obsidian LaTeX, český text s diakritikou, wikilinky a zdroje u sekcí.

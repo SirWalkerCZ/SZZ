@@ -13,11 +13,11 @@
 - Pokud informace v podkladech není nalezena, explicitně to označit.
 
 ## Aktuální práce
-- Předmět: KANA
-- Podklady: `KANA/testkom.pdf`, `KANA/transformace.pdf`
+- Předmět: PST
+- Podklady: `PST/01PST_zapisky.pdf`
 - Zdrojový seznam otázek: `SZZ - Teoretické okruhy.md`
-- Otázky KANA:
-  9. Funkce komplexní proměnné a jejich derivace. Křivkový integrál. Singularity. Mocninné řady, Taylorovy a Laurentovy rozvoje. Rezidua, reziduová věta a její aplikace.
-  10. Fourierovy řady, Fourierova a Laplaceova transformace - význam, gramatika, věty o inverzi. Přímá a zpětná transformace Z. Aplikace transformací na řešení diferenciálních a diferenčních rovnic.
+- Otázky PST:
+  11. Náhodná veličina a náhodný vektor. Distribuční funkce, hustota a pravděpodobnostní funkce náhodné veličiny. Střední hodnota a rozptyl náhodné veličiny a jejich odhady. Korelace a nezávislost náhodných veličin.
+  12. Centrální limitní věta. Metoda maximální věrohodnosti. Základní principy statistického testování hypotéz, testy střední hodnoty. Chí-kvadrát test dobré shody.
 
 - V běžném českém textu vždy používat správnou gramatiku včetně háčků a čárek. Bez diakritiky psát jen tam, kde to vyžaduje technický identifikátor, název souboru, příkaz, kód nebo doslovný zápis z podkladů.
