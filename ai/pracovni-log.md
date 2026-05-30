@@ -54,3 +54,14 @@ Přidán `README.md` s rychlým návodem pro ostatní: instalace `pdf-mcp[semant
 - Použité podklady: [[ma1a-23k2.pdf]], [[ma1a-23k3.pdf]], [[ma1a-23k4.pdf]], [[ma1a-23k6.pdf]], [[ma1a-23k7.pdf]], [[ma1a-23k8.pdf]], [[ma1a-23k9.pdf]], [[ma1a-23k10.pdf]].
 - Taylorův polynom doplněn z [[hex_compost.pdf#page=22]], protože v adresáři MA1A není dodaná kapitola 5.
 - Poznámky používají Obsidian LaTeX rovnice, českou diakritiku v běžném textu, zdroje u sekcí a wikilinky mezi souvisejícími tématy.
+
+
+## 2026-05-30 - DRN otázky 5-6
+
+- Zpracovány otázky 5 a 6 do složky `DRN`:
+  - [[05 Linearni diferencialni rovnice a soustavy]]
+  - [[06 Numericke metody rovnic integralu a diferencialnich rovnic]]
+- Použitý podklad: [[dnbook.pdf]]. Originální text je anglicky, výstup je česky.
+- Otázka 5 čerpá hlavně z kapitol 15, 16, 26 a 27.
+- Otázka 6 čerpá hlavně z kapitol 5, 11-13, 18-20 a 23-25.
+- Poznámky používají Obsidian LaTeX, český text s diakritikou, wikilinky a zdroje u sekcí.
