@@ -158,6 +158,8 @@ To neznamená, že v druhém prostředí není žádné pole; vniká do něj eva
 
 ## Evanescentní vlna
 
+> 🔬 **Interaktivní simulace:** pole evanescentní vlny při totálním odrazu — `sim/eld_evanescent.html` (sekce *Simulace → ELD* ve wiki). Ukazuje interferenci dopadající a odražené vlny nad rozhraním a exponenciálně tlumené pole postupující podél rozhraní pod ním.
+
 Evanescentní vlna se šíří podél rozhraní, ale kolmo od rozhraní exponenciálně zaniká. U totálního odrazu má prostupující pole tvar
 
 $$

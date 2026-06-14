@@ -5,6 +5,12 @@
 
 ## Soustava a základní klasifikace
 
+> 🎥 **ALL OF Signals and Systems Explained** (Eric Explains) — souhrnný přehled okruhu
+
+<div style="position:relative;padding-bottom:56.25%;height:0;margin:14px 0;max-width:680px;border-radius:8px;overflow:hidden">
+<iframe src="https://www.youtube-nocookie.com/embed/XJw92w5u13c" title="All of Signals and Systems" loading="lazy" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;inset:0;width:100%;height:100%;border:0"></iframe>
+</div>
+
 **Soustava** je objekt, který pod vlivem vstupního signálu, tedy buzení, produkuje výstupní signál, tedy odezvu. Zdroj: [[sas_cviceni_v0.96_250225.pdf#page=100|SAS s. 100]].
 
 ```tikz
@@ -386,6 +392,12 @@ U kauzální soustavy platí $H_F(\Omega)=H_Z(e^{j\Omega})$, pokud oblast konver
 ```
 
 ## Pásmové signály, Hilbertova transformace a modulace
+
+> 🎥 **Hilbert Transform Tutorial – A Tale of AM, QAM, and SSB** (Florentin Putz)
+
+<div style="position:relative;padding-bottom:56.25%;height:0;margin:14px 0;max-width:680px;border-radius:8px;overflow:hidden">
+<iframe src="https://www.youtube-nocookie.com/embed/R6w-47O3-w8" title="Hilbert Transform Tutorial" loading="lazy" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;inset:0;width:100%;height:100%;border:0"></iframe>
+</div>
 
 > [!note] Rozsah v podkladech
 > V textově extrahovaném [[sas_cviceni_v0.96_250225.pdf]] jsou Hilbertova transformace, komplexní obálka, pásmové signály a analogová modulace zachyceny hlavně jako teoretické otázky, nikoli jako samostatná vyložená kapitola. Konkrétní výskyty jsou na [[sas_cviceni_v0.96_250225.pdf#page=188|SAS s. 188-189]] a u AM na [[sas_cviceni_v0.96_250225.pdf#page=191|SAS s. 191]]. `hex_compost.pdf` kontrolně potvrzuje otázky „analogové modulace a jejich spektrum“, „jak získat komplexní obálku“ a „co je pásmový signál“. Zdroj: [[hex_compost.pdf#page=240|HEX s. 240]].
